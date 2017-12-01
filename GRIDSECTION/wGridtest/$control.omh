@@ -1,0 +1,4 @@
+On evMouseUp
+	Calculate column as $cinst.$objs.CompGrid.$objs.[$cobj.$name].$gridcolumn
+	Calculate section as $cinst.$objs.CompGrid.$objs.[$cobj.$name].$gridsection
+	OK message  {Field [$cobj.$name] was clicked, located in column [column] and section [section].}

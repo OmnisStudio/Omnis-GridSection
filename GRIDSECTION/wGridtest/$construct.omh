@@ -1,0 +1,7 @@
+;  Enter your initialization code here
+Do ilist.$define(iFirstname,iSurname,iAge,iCity)
+Do ilist.$add('Mike','Smith',32,'London')
+Do ilist.$add('John','Fox',47,'New York')
+Do ilist.$add('Nicole','Hanson',35,'Hamburg')
+Do ilist.$add('Johannes','Meier',21,'Berlin')
+Do ilist.$add('Wendy','Henderson',31,'Manchester')
